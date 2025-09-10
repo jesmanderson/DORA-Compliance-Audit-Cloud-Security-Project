@@ -4,6 +4,8 @@
 This project simulates a **Digital Operational Resilience Act (DORA)** compliance audit for a financial services client.  
 The goal is to assess **AWS, Azure, and Microsoft 365 environments** for operational resilience gaps, document risks, and recommend security improvements.
 
+> ⚠️ **Note:** These examples are for learning/portfolio purposes. Review and adjust for your environment, roles, and data-handling requirements before production use.
+
 ## Objectives
 - Perform a **gap analysis** against DORA requirements.
 - Build a **risk register** mapping technical gaps to compliance requirements.
